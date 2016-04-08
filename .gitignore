@@ -1,0 +1,19 @@
+# Unreal Engine related
+
+[Bb]binaries/
+[Dd]erivedDataCache/
+[Ii]ntermediate/
+[Ss]aved/
+
+# Generated project files 
+
+*.dll
+*.sln
+*.suo
+*.sdf
+*.pdb
+*.opensdf
+
+# Wwise files
+*.log
+TempDefinitionFile.txt
